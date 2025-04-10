@@ -1,0 +1,17 @@
+# Ignora cache do Python
+__pycache__/
+*.pyc
+
+# Ignora arquivos de banco de dados temporários (SQLite ou similares)
+*.sqlite3
+*.db
+
+# Ignora configurações e arquivos pessoais do VSCode
+.vscode/
+
+# Ignora arquivos de sistema (no Linux ou Mac)
+.DS_Store
+
+# Ignora arquivos JSON de banco (se não quiser versionar os dados)
+# descomente a linha abaixo se for o caso
+# db_carrinho.json
